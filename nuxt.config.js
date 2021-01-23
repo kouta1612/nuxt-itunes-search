@@ -14,7 +14,7 @@ module.exports = {
   /*
    ** Customize the progress bar color
    */
-  plugins: ["~plugins/vuetify.js"],
+  // plugins: ["~plugins/vuetify.js"],
   buildModules: ["@nuxtjs/vuetify"],
   // css: ["~assets/app.sty1"],
   loading: { color: "#3B8070" },
@@ -22,7 +22,7 @@ module.exports = {
    ** Build configuration
    */
   build: {
-    vendor: ["axios", "vuetify"],
+    vendor: ["axios"],
     /*
      ** Run ESLint on save
      */
