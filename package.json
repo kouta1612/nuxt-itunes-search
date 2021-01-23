@@ -16,12 +16,15 @@
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.3",
     "axios": "^0.21.1",
     "babel-eslint": "^10.0.1",
     "eslint": "^4.19.1",
     "eslint-friendly-formatter": "^4.0.1",
     "eslint-loader": "^2.1.1",
     "eslint-plugin-vue": "^4.0.0",
+    "stylus": "^0.54.8",
+    "stylus-loader": "^4.3.3",
     "vuetify": "^2.4.3"
   }
 }
